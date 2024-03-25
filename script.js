@@ -68,6 +68,6 @@ $(".hide").click(function(){
 });
 
 $(".restart1").click(function() {
-location.reload();
+$(location).attr('href','https://q50a.github.io/Unit-6-Project/');
 });
 
